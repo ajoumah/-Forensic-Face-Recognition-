@@ -16,7 +16,7 @@ The system integrates:
 
 ##   Abstract
 
-Identifying deceased individuals in forensic and humanitarian circumstances is still difficult, owing to face damage, decomposition, and image disparities. This study proposes a strong face identification framework that incorporates dual-method face detection, orientation correction, and deep learning-based embedding creation. Five models—**AdaFace-ViT, FaceNet, ResNet50, SENet, and VGG16**—were evaluated using antemortem (AM) and postmortem (PM) facial images to assess robustness under degraded conditions.
+Identifying deceased individuals in forensic and humanitarian circumstances is still difficult, owing to face damage, decomposition, and image disparities. This study proposes a strong face identification framework that incorporates dual-method face detection, orientation correction, and deep learning-based embedding creation. Five models—**ViT, FaceNet, ResNet50, SENet, and VGG16**—were evaluated using antemortem (AM) and postmortem (PM) facial images to assess robustness under degraded conditions.
 
 ---
 
@@ -52,7 +52,7 @@ The proposed framework consists of the following stages:
    - Orientation normalization (-90°, 90°, 180° handling)
 
 4. **Embedding Extraction**
-   - AdaFace ViT
+   - ViT
    - FaceNet
    - ResNet50
    - SENet
@@ -81,4 +81,4 @@ The proposed framework consists of the following stages:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
