@@ -50,14 +50,6 @@ For ethical, legal, and humanitarian reasons:
 
 
 
-\- ❌ Raw postmortem images are NOT publicly distributed
-
-\- ❌ Facial reconstructions are NOT shared
-
-\- ❌ Personally identifiable information (PII) is NOT included
-
-
-
 Only extracted deep embeddings are provided to support:
 
 \- reproducibility
