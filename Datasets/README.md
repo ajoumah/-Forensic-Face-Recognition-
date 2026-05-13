@@ -2,7 +2,7 @@
 
 
 
-\## 📌 Overview
+\##  Overview
 
 
 
@@ -38,7 +38,7 @@ Instead, this dataset provides only:
 
 
 
-\## ⚠️ Ethical \& Privacy Notice
+\##  Ethical \& Privacy Notice
 
 
 
@@ -180,7 +180,7 @@ dataset/
 
 └── README.md
 
-## 📚 Citation
+##  Citation
 
 If you use this dataset in your research, please cite:
 
